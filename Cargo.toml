@@ -2,7 +2,8 @@
 
 members = [
     "hello_world",
-    "guessing_game"
+    "guessing_game",
+    "nn_bottles_song"
 ]
 
-default-members = ["guessing_game"]
+#default-members = ["guessing_game"]
